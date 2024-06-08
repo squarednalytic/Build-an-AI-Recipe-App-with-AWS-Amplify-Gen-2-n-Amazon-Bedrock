@@ -39,7 +39,3 @@ Contributions are welcome! Please open a pull request to contribute to the proje
 **Acknowledgments**
 
 This project uses Amazon Bedrock's AI-powered recipe generation capabilities. Special thanks to the Amazon Bedrock team for providing this technology.
-
-**Contact**
-
-If you have any questions or issues, please contact [Your Name] at [Your Email].
